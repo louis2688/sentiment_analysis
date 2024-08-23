@@ -1,0 +1,4 @@
+review_text,rating,processed_text,sentiment
+This product is amazing! The quality is top-notch.,5,product amazing quality,positive
+"Terrible experience, I want a refund.",1,terrible experience want refund,negative
+"It's okay, does the job but nothing special.",3,okay job nothing special,negative
